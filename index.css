@@ -1,0 +1,66 @@
+#bg1
+{
+    background-color: rgba(52, 52, 54, 0.842);
+}
+
+
+.dropdown-item:hover
+{
+
+    background-color: rgb(54, 63, 242);
+    color: white;
+}
+
+.btn
+{
+    border-style: solid;
+    color: azure;
+    font-size: 20px;
+    background-color: rgb(74, 74, 225);
+}
+
+
+.card-img-circle 
+{
+    width: 150px; 
+    height: 150px;
+    border-radius: 100%;
+    object-fit: cover; 
+  }
+
+
+  .card-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+
+  .content
+  {
+    text-align: center;
+   
+    padding-left: 50px;
+   
+    padding-right: 50px;
+
+  }
+
+  .head2
+  {
+    font-size: 50px;
+  }
+
+
+  .con3
+  {
+    padding-top: 300px;
+    padding-left: 100px;
+    padding-bottom: 300px;
+  }
+
+
+
+
+
